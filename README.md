@@ -1,8 +1,6 @@
-# Advance Arcade Superhero Fight Application
+# Advance Arcade Superhero Fight/Compare Application
 
-#### Creating arcade fight application for fighting superhero's to see which is the best
-
-![Some Text](https://cdn.vox-cdn.com/thumbor/lW1IX2LWRaYqjk27RJ3Q0-XW3cE=/180x0:2610x1620/1280x854/cdn.vox-cdn.com/uploads/chorus_image/image/49190951/Marvel_Civil_War_Sides.0.0.jpg)
+#### Advance Arcade Superhero Game that compares/fights your favorite superhero's against each other to see who is the best
 
 ![Some Text](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/6260457/MarvelCivilWar.0.jpg)
 
